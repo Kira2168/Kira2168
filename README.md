@@ -22,13 +22,10 @@
       <strong style="color: #4F46E5;">Full Stack Developer</strong> - Building with Next.js, TypeScript, and Prisma
     </p>
     <p style="margin: 0 0 15px 0; color: #444; font-size: 16px; line-height: 1.6;">
-      <strong style="color: #4F46E5;">Mobile Developer</strong> - Crafting Android apps with Java & XML
-    </p>
-    <p style="margin: 0 0 15px 0; color: #444; font-size: 16px; line-height: 1.6;">
-      <strong style="color: #4F46E5;">AR Explorer</strong> - Creating immersive experiences in Unity & C#
+      <strong style="color: #4F46E5;">Mobile & AR</strong> - Specialized in Android (Java) and Unity (C#)
     </p>
     <p style="margin: 0; color: #444; font-size: 16px; line-height: 1.6;">
-      <strong style="color: #4F46E5;">Portfolio</strong> - Check out my work at <a href="https://kira-portfolio-bice.vercel.app/?v=1">kira-portfolio.vercel.app</a>
+      <strong style="color: #4F46E5;">Portfolio</strong> - Explore my live projects at <a href="https://kira-portfolio-bice.vercel.app/?v=1">kira-portfolio.vercel.app</a>
     </p>
   </div>
 </div>
@@ -37,23 +34,19 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
+| Project | Description | Tech Stack | Link |
 |--------|-------------|------------|-----------|
-| 💻 **Bento Portfolio** | Modern Glassmorphism portfolio site | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,vercel" /> | [![Portfolio](https://img.shields.io/badge/💻_Live_Site-00d2ff?style=for-the-badge)](https://kira-portfolio-bice.vercel.app/?v=1) |
-| 🛡️ **Marburg Alert** | Public health awareness app for Ethiopia | <img src="https://skillicons.dev/icons?i=androidstudio,java" /> | [Repo](https://github.com/Kira2168) |
-| 🐉 **AR Image Tracker** | Unity-based AR dragon controller | <img src="https://skillicons.dev/icons?i=unity,cs" /> | [Repo](https://github.com/Kira2168/AR_Image-Tracking) |
-| 📧 **Email Dispatcher** | Automation tool for Little Limited Solution | <img src="https://skillicons.dev/icons?i=py" /> | [Repo](https://github.com/Kira2168) |
+| 🛡️ **Marburg Alert** | Public health awareness and crowd detection app. | `Java` `Android` | [View Repo](https://github.com/Kira2168/Marburg-Alert-Ethiopia) |
+| 🐉 **AR Image Tracking** | Unity-based AR dragon controller with joystick. | `Unity` `C#` | [View Repo](https://github.com/Kira2168/AR_Image-Tracking) |
+| 📩 **SMS Sender** | Email & SMS dispatcher using TextBee API. | `Python` `Tkinter` | [View Repo](https://github.com/Kira2168/SMS-sender-) |
+| 🏢 **Dorm Management** | System for managing student accommodations. | `Java` `MySQL` | [View Repo](https://github.com/Kira2168/dormiotry-management-) |
+| 🚗 **Car Dealership** | Web platform for vehicle listings and sales. | `PHP` `HTML/CSS` | [View Repo](https://github.com/Kira2168/simple-car-dealrship-website) |
 
 ---
 
 <h4>🛠️ Tech Stack & Badges </h4>
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,unity,cs,androidstudio,java,figma,github,vscode,tailwind,prisma,mysql" /> 
-</div>
-
-<div align="center">
-  <h4 style="font-size: 24px; color: #ff8c00; margin-bottom: 10px;">🏆 GitHub Trophies</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kira2168&theme=radical&no-frame=true&margin-w=10&row=1&column=8" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,unity,cs,androidstudio,java,figma,github,vscode,tailwind,prisma,mysql,php" /> 
 </div>
 
 <div align="center" style="margin-top: 20px;">
