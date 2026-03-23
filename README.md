@@ -47,6 +47,20 @@
   <a href="https://www.facebook.com/kirayeeee"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
+---
+
+### ℹ️ About the Contributions Graph
+
+> GitHub automatically displays a **contribution graph** below your profile README — this cannot be removed or hidden via the README itself.
+
+To reduce what appears in it:
+
+1. **Settings → Edit profile** → toggle off **"Include private contributions on my profile"**
+2. Avoid pushing commits to default branches of public repos if you want less activity shown
+3. To hide the graph entirely, go to **Settings → Public profile** and enable **"Make profile private and hide activity"** *(this also hides your whole profile from others)*
+
+---
+
 <div align="center">
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira2168&style=for-the-badge&color=00ff99" alt="Profile views"/>
