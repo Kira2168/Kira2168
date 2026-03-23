@@ -1,17 +1,13 @@
 <div align="center">
-  <p align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kirubel%20Adisu%20💻&fontAlign=50&fontAlignY=45&color=0:00d2ff,100:3a7bd5&fontColor=ffffff&fontSize=55&animation=fadeIn"
-      alt="Kirubel Banner"
-    />
-  </p>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira2168&style=for-the-badge&color=00d2ff" alt="Profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Kirubel%20Adisu&fontAlign=50&fontAlignY=40&color=auto&fontColor=ffffff&fontSize=60&animation=twinkling" />
 </div>
 
+<br />
+
 <div align="center">
-  <h1>✨ I'm Kirubel Adisu ✨</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Software+Developer;Full+Stack+Explorer;AR+Enthusiast;Mobile+App+Builder" alt="Typing Animation" />
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/handshake.gif" width="35px"> Hi, I'm Kirubel! 👋</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Software+Developer;AR+Enthusiast;Mobile+App+Architect;Problem+Solver" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -42,7 +38,7 @@
 
 ---
 
-### 🛠 Tech Stack & Badges
+### 🛠 Tech Stack & Badges (Animated Floating Icons)
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,unity,cs,androidstudio,java,figma,tailwind,prisma,mysql,php&theme=dark" /> 
 </div>
@@ -55,4 +51,8 @@
   <a href="https://t.me/officialkira"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.instagram.com/kiras857"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/kirayeeee"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira2168&style=for-the-badge&color=00d2ff" alt="Profile views"/>
 </div>
