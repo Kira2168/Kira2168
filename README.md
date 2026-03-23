@@ -22,12 +22,12 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Link |
+| Project | Tech | Link |
 |:---|:---|:---|
-| 🛡️ **Marburg Alert** | Public health awareness app for Ethiopia. | [View Repo](https://github.com/Kira2168/Marburg-Alert-Ethiopia) |
-| 🐉 **AR Tracking** | Unity-based AR dragon tracker & controller. | [View Repo](https://github.com/Kira2168/AR_Image-Tracking) |
-| 📩 **SMS Sender** | Python-based automation for TextBee API. | [View Repo](https://github.com/Kira2168/SMS-sender-) |
-| 🏢 **Dorm Management**| Student accommodation management system. | [View Repo](https://github.com/Kira2168/dormiotry-management-) |
+| 🛡️ **Marburg Alert** | `Android/Java` | [Repo](https://github.com/Kira2168/Marburg-Alert-Ethiopia) |
+| 🐉 **AR Tracking** | `Unity/C#` | [Repo](https://github.com/Kira2168/AR_Image-Tracking) |
+| 📩 **SMS Sender** | `Python` | [Repo](https://github.com/Kira2168/SMS-sender-) |
+| 🏢 **Dorm Management**| `Java/MySQL` | [Repo](https://github.com/Kira2168/dormiotry-management-) |
 
 ---
 
