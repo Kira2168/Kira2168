@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZueGZ6bmZueGZ6bmZueGZ6bmZueGZ6bmZueGZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZueGZ6bmZueGZ6bmZueGZ6bmZueGZ6bmZueGZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
   
   <h1>✨ Welcome to My Dev Space ✨</h1>
   
@@ -14,20 +14,21 @@
 
 <div align="center">
   <a href="https://kira-portfolio-bice.vercel.app/?v=1" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_VISIT_MY_LIVE_PORTFOLIO-00ff99?style=for-the-badge&logo=react&logoColor=black" height="35"/>
+    <img src="https://img.shields.io/badge/🚀_VISIT_MY_LIVE_PORTFOLIO-00ff99?style=for-the-badge&logo=react&logoColor=black" height="40"/>
   </a>
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Project Universe
 
-| Project | Tech | Link |
+| Project | Tech Stack | Link |
 |:---|:---|:---|
-| 🛡️ **Marburg Alert** | `Android/Java` | [Repo](https://github.com/Kira2168/Marburg-Alert-Ethiopia) |
-| 🐉 **AR Tracking** | `Unity/C#` | [Repo](https://github.com/Kira2168/AR_Image-Tracking) |
-| 📩 **SMS Sender** | `Python` | [Repo](https://github.com/Kira2168/SMS-sender-) |
-| 🏢 **Dorm Management**| `Java/MySQL` | [Repo](https://github.com/Kira2168/dormiotry-management-) |
+| 🛡️ **Marburg Alert Ethiopia** | `Android` `Java` | [View Repo](https://github.com/Kira2168/Marburg-Alert-Ethiopia) |
+| 🐉 **AR Image Tracking** | `Unity` `C#` | [View Repo](https://github.com/Kira2168/AR_Image-Tracking) |
+| 📩 **SMS Sender** | `Python` `API` | [View Repo](https://github.com/Kira2168/SMS-sender-) |
+| 🏢 **Dorm Management** | `Java` `MySQL` | [View Repo](https://github.com/Kira2168/dormiotry-management-) |
+| 🚗 **Car Dealership** | `HTML` `CSS` | [View Repo](https://github.com/Kira2168/simple-car-dealrship-website) |
 
 ---
 
