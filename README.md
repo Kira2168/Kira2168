@@ -1,3 +1,16 @@
+<!-- ============================================================
+     👋 Hi! This is the Profile README for Kira2168.
+     GitHub automatically displays this file at:
+       https://github.com/Kira2168
+     because this repository's name exactly matches the username.
+
+     HOW TO CUSTOMIZE:
+     • Edit the sections below to update your intro, skills,
+       projects and contact info.
+     • Replace placeholder text (like "Your Name") with your own.
+     • Add or remove sections as you like.
+     • See PROFILE_SETUP.md for tips on hiding profile modules.
+     ============================================================ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kirubel%20Adisu&fontAlign=50&fontAlignY=40&color=0:001a00,100:00ff99&fontColor=00ff99&fontSize=50&animation=twinkling" />
 </div>
